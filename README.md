@@ -1,2 +1,2 @@
-# Bank-Managment-System
+# Bank-Management-System
 Resumè project 
